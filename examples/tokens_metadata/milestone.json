@@ -1,0 +1,10 @@
+{
+    "name": "Lecturer",
+    "description": "Create and complete 1 course as a lecturer",
+    "image": "https://game.example/item-id-8u5h2m.png",
+    "team_token_reward": 10000,
+    "data": {
+        "course": "course name",
+        "participants": 10
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Agile",
+    "description": "Complete tasks on Agile platform",
+    "maxlevel": 5,
+    "level": 1,
+    "amountToComplete": 10,
+    "image": "https://game.example/item-id-8u5h2m.png",
+    "team_token_reward": 100
+}
